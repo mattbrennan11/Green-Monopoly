@@ -1,0 +1,14 @@
+1,GO
+2,Oil,Purple,40.0,2.0,10.0,30.0,90.0,160.00
+2,Coal,Purple,40.0,4.0,20.0,60.0,180.0,320.00
+2,Gas,Purple,80.0,6.0,30.0,90.0,270.0,400.00
+3,Nothing Square
+2,Hydro,Light Blue,100.0,6.0,30.0,90.0,270.0,450.00
+2,Solar,Light Blue,100.0,8.0,40.0,100.0,300.0,500.00
+2,Wind,Light Blue,120.0,10.0,50.0,150.0,450.0,550.00
+3,Nothing Square
+2,Recycling,Pink,140.0,10.0,50.0,150.0,450.0,600.00
+2,Sustainable Travel,Pink,160.0,12.0,60.0,180.0,500.0,650.00
+3,Nothing Square
+2,Green New Deal,Orange,180.0,14.0,70.0,200.0,550.0,700.00
+2,Government Policy,Orange,200.0,14.0,70.0,200.0,550.0,800.00
